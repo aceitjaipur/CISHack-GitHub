@@ -2,8 +2,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
-  color: #272829;
+  font-family: Fantasy;
+  color: #BLACK;
 }
 
 a {
@@ -16,7 +16,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: Fantasy;
 }
 
 /*--------------------------------------------------------------
@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   background: #149ddd;
-  color: #fff;
+  color: #E8CEBF;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
 }
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  color: #fff;
+  color: #E8CEBF;
   background: #2eafec;
   transition: background 0.2s ease-in-out;
 }
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile h1 a, #header .profile h1 a:hover {
-  color: #fff;
+  color: #E8CEBF;
   text-decoration: none;
 }
 
@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 18px;
   display: inline-block;
   background: #212431;
-  color: #fff;
+  color: #E8CEBF;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header .profile .social-links a:hover {
   background: #149ddd;
-  color: #fff;
+  color: #E8CEBF;
   text-decoration: none;
 }
 
@@ -144,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  color: #E8CEBF;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
   text-decoration: none;
-  color: #fff;
+  color: #E8CEBF;
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
@@ -230,18 +230,18 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #E8CEBF;
 }
 
 #hero p {
-  color: #fff;
+  color: #E8CEBF;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
 #hero p span {
-  color: #fff;
+  color: #E8CEBF;
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
@@ -274,7 +274,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #E8CEBF;
 }
 
 .section-title {
@@ -287,7 +287,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #266150;
 }
 
 .section-title h2::after {
@@ -296,7 +296,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #266150;
   bottom: 0;
   left: 0;
 }
@@ -311,7 +311,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #E8CEBF;
 }
 
 .about .content ul {
@@ -326,7 +326,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #149ddd;
+  color: #266150;
 }
 
 .about .content p:last-child {
@@ -348,7 +348,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #266150;
   float: left;
 }
 
@@ -735,14 +735,14 @@ section {
 
 .contact .info {
   padding: 30px;
-  background: #fff;
+  background: #BLACK;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #266150;
   float: left;
   width: 44px;
   height: 44px;
