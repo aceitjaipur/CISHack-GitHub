@@ -3,7 +3,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: Fantasy;
-  color: #272829;
+  color: #E8CEBF;
 }
 
 a {
@@ -144,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  color: #E8CEBF;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -274,7 +274,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #E8CEBF;
 }
 
 .section-title {
@@ -287,7 +287,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #266150;
 }
 
 .section-title h2::after {
@@ -296,7 +296,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #266150;
   bottom: 0;
   left: 0;
 }
@@ -311,7 +311,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #E8CEBF;
 }
 
 .about .content ul {
@@ -326,7 +326,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #149ddd;
+  color: #266150;
 }
 
 .about .content p:last-child {
@@ -348,7 +348,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #266150;
   float: left;
 }
 
@@ -735,14 +735,14 @@ section {
 
 .contact .info {
   padding: 30px;
-  background: #fff;
+  background: #E8CEBF;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #266150;
   float: left;
   width: 44px;
   height: 44px;
