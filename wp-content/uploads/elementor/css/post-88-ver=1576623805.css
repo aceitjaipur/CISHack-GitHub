@@ -1,1 +1,8 @@
-.elementor-88 .elementor-element.elementor-element-ca024cf .hero_warp{background-image:url( "../../2019/04/hero_bg.jpg" );}.elementor-88 .elementor-element.elementor-element-44fffc0  .client_single_item a{opacity:0.5;}
+.elementor-88 .elementor-element.elementor-element-ca024cf .hero_warp {
+    background-image: url("../../2019/04/hero_bg1.jpeg");
+    background-position: right;
+}
+
+.elementor-88 .elementor-element.elementor-element-44fffc0 .client_single_item a {
+    opacity: 0.5;
+}
